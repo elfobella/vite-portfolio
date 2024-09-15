@@ -3,7 +3,7 @@ import { useState } from 'react'
 function App() {
 
   return (
-    <div style={{color: "red"}}>
+    <div>
       <h1>Hello there!</h1>
     </div>
   )
