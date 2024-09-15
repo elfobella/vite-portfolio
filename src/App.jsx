@@ -1,13 +1,8 @@
 import { useState } from "react";
 import AnimatedSection from "./AnimatedSection";
-import Myself from "./assets/myself.jpeg"
-import LeftCards from "./LeftCards";
-import RightCards from "./RightCards";
-import Socials from "./Socials";
 
 function App() {
 
-  const [logoText,setLogoText] = useState("")
 
   return (
     <div>
